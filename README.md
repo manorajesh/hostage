@@ -12,6 +12,6 @@ Keep going and see how far you can go!
 
 ---
 ## Minimum Requirements
-Something capable of running 32-bit Windows executables
+Something capable of running 64-bit Windows executables
 
  <sub>Note: this is a rendition of a known person's work<sub>
