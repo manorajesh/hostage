@@ -3,7 +3,7 @@
 Journey through an emotional and *riviting* tale of love, defeat, victory, and boredem!
 Play **now** to get H back to safety in the quickest time!
 
-![image will be added soon](image.jpg)
+![image will be added soon](image.png)
 
 ---
 ## Tutorial
